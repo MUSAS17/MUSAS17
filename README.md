@@ -33,8 +33,6 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 
 ## Download My CV
 
-[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/cocoritzy/cocoritzy/blob/main/CV.pdf)
-[Click here to download my CV](https://github.com/cocoritzy/cocoritzy/blob/main/CV.pdf)
 
 [CV MUSA  Serpil.pdf](https://github.com/user-attachments/files/18209592/CV.MUSA.Serpil.pdf)
 

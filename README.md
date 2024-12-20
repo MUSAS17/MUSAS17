@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, I'm Coline! <br/><a 
+<h1>Hi, I'm Serpil! <br/><a 
 
 # My Portfolio
 
